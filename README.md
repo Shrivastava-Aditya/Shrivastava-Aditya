@@ -7,7 +7,7 @@ Connect with me
 - :round_pushpin: RNS Institute of Technology [Bangalore, IN](https://www.google.com/search?q=Bangalore%2C+IN&oq=Bangalore%2C+IN&aqs=chrome..69i57.10117j0j4&sourceid=chrome&ie=UTF-8#)
 - :magnet: Gravitated towards logic-building projects and learning various tools to help in solving something.
 - :handshake: Open for any new opportunities to collaborate and learn.
-- 🔎 Currently Currently browsing through fin-tech and web 3.0 projects.
+- 🔎 Currently browsing through fin-tech and web 3.0 projects.
 <!-- ![Aditya](https://miro.medium.com/fit/c/262/262/1*tzz-qlgZBff5h-OvUjsIsg.jpeg) -->
 
 :point_down::point_down:	
