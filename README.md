@@ -28,4 +28,4 @@ Connect with me
 <!-- ### What to expect here?
   1. Multiple experiment projects.
 <!--   2. Fisnished and some unfinished projects on various stacks -->
-<img alt="Visitor Badge" src="https://visitor-badges.glitch.me?username=Shrivastava-Aditya&repo=Shrivastava-Aditya.github.io&label=Visits&style=plastic&color=%23FF2048&contentType=svg">
+<img alt="Visitor Badge" src="https://camo.githubusercontent.com/fbc0221467b841c969986abc1fc9284b22497463885bcefef1eafcced7f804d0/68747470733a2f2f76697369746f722d6261646765732e676c697463682e6d653f757365726e616d653d53687269766173746176612d416469747961267265706f3d53687269766173746176612d4164697479612e6769746875622e696f266c6162656c3d566973697473267374796c653d706c617374696326636f6c6f723d25323346463230343826636f6e74656e74547970653d737667">
